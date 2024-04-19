@@ -1,5 +1,5 @@
 function [a,b] = CHPwS(l,g,o,eh, ep,t)
-%2 Host parasitoid system with internal dynamics (Ricekr Growth) and diffusive migration.
+%2 Host parasitoid system with internal dynamics (Smith and Slatkin Growth) and diffusive migration.
 %Host growth rate = l, Parasitoid growth rte = g;
 %migration fraction of hosts = eh, migration fraction of parasitoids = ep, no of generations = t;
 
